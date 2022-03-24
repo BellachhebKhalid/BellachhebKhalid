@@ -1,6 +1,6 @@
 Hi there, I'm Khalid
 
-Linkedin : [`Khalid BELLACHHEB`](https://www.linkedin.com/in/%20khalid-bellachheb-45376918a/)
+Linkedin : [`Khalid BELLACHHEB`](https://www.linkedin.com/in/khalid-bellachheb-45376918a/)
 
 I'm a Software Engineer and Game Developer.
 
