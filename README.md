@@ -4,7 +4,7 @@ Linkedin : [`Khalid BELLACHHEB`](https://www.linkedin.com/in/khalid-bellachheb-4
 
 I'm a Software Engineer and Game Developer.
 
-- 👯 I'm looking for other opportunity as ***Python Developer*** / ***Game Developper***.
+- 👯 I'm looking for another opportunity as a ***Python Developer*** / ***Game Developper***.
 - 😎 Currently working at ***Orano Recyclage***.
 - 🏢 Previously worked at ***Groupe Renault***.
 - 🌱 Learning more about and studying : ***ReactJs*** and ***Data science***.
